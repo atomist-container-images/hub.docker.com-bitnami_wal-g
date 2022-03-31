@@ -94,6 +94,3 @@ FROM bitnami/wal-g:1.1.0-debian-10-r194
 
 # Tags: 1.1.0-debian-10-r193
 FROM bitnami/wal-g:1.1.0-debian-10-r193
-
-# Tags: 1.1.0-debian-10-r192
-FROM bitnami/wal-g:1.1.0-debian-10-r192
