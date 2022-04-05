@@ -1,12 +1,27 @@
-# Tags: latest, 1.1.0-debian-10-r222, 1.1.0, 1-debian-10, 1
+# Tags: latest, 1.1.0-debian-10-r227, 1.1.0, 1-debian-10, 1
 FROM bitnami/wal-g:latest
-FROM bitnami/wal-g:1.1.0-debian-10-r222
+FROM bitnami/wal-g:1.1.0-debian-10-r227
 FROM bitnami/wal-g:1.1.0
 FROM bitnami/wal-g:1-debian-10
 FROM bitnami/wal-g:1
 
 # Tags: _
 FROM bitnami/wal-g:_
+
+# Tags: 1.1.0-debian-10-r226
+FROM bitnami/wal-g:1.1.0-debian-10-r226
+
+# Tags: 1.1.0-debian-10-r225
+FROM bitnami/wal-g:1.1.0-debian-10-r225
+
+# Tags: 1.1.0-debian-10-r224
+FROM bitnami/wal-g:1.1.0-debian-10-r224
+
+# Tags: 1.1.0-debian-10-r223
+FROM bitnami/wal-g:1.1.0-debian-10-r223
+
+# Tags: 1.1.0-debian-10-r222
+FROM bitnami/wal-g:1.1.0-debian-10-r222
 
 # Tags: 1.1.0-debian-10-r221
 FROM bitnami/wal-g:1.1.0-debian-10-r221
@@ -82,15 +97,3 @@ FROM bitnami/wal-g:1.1.0-debian-10-r198
 
 # Tags: 1.1.0-debian-10-r197
 FROM bitnami/wal-g:1.1.0-debian-10-r197
-
-# Tags: 1.1.0-debian-10-r196
-FROM bitnami/wal-g:1.1.0-debian-10-r196
-
-# Tags: 1.1.0-debian-10-r195
-FROM bitnami/wal-g:1.1.0-debian-10-r195
-
-# Tags: 1.1.0-debian-10-r194
-FROM bitnami/wal-g:1.1.0-debian-10-r194
-
-# Tags: 1.1.0-debian-10-r193
-FROM bitnami/wal-g:1.1.0-debian-10-r193
